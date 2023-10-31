@@ -1,6 +1,6 @@
 body {
-    /* background: #2c2c2c; */
-    background-image: url(./images/YONKOBg.jpg);
+    background: #2c2c2c;
+/*     background-image: url(./images/YONKOBg.jpg); */
 
     background-repeat: no-repeat;
     background-size: auto;
@@ -39,8 +39,8 @@ body {
     margin-bottom: 100px;
 }
 .title span {
-    right: 569px;
-    position: absolute;
+/*     right: 569px; */
+/*     position: absolute; */
     background: radial-gradient(circle, #fff 30%, #c2c2c2 100%);
     background-clip: text;
     -webkit-background-clip: text;
